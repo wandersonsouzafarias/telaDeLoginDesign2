@@ -19,6 +19,8 @@ main {
     height: 400px;
     width: 100%;
     margin-bottom: 10px;
+    
+   
 }
 
 #login {
@@ -30,4 +32,6 @@ main {
 
 #imagem {
     background-image: url('../imagem/senha.png');
+    width: 400px;
+    
 }
